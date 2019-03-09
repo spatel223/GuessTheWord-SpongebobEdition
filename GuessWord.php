@@ -1,3 +1,28 @@
+<html>
+
+<head>
+
+<style>
+body {
+	background-image: url(spongebobback.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+	font-size: 69px;
+	text-align: center;
+	font-family: bookman old style;
+}
+h1 {
+	font-size: 20;
+	text-align: center;
+	font-family: bookman old style;
+}
+</style>
+</head>
+
+<body>
+<br>
+<h1> Guess The Word: Spongebob Edition! :) <h1>
+
 <?php
 
 
